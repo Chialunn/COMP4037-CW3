@@ -1,0 +1,1 @@
+define({ availableImg: ["Beck2016Visual","BozzelliGuido2019AiVf","FidasChristos2021Efsi","Gonz¨¢lez-Rodr¨ªguezM.Rosario2020Tiov","InnocenteChiara2023Afso","KrumpenStefan2022TTCH","MartinoM2020VRbb","MartoAnabela2022Asom","NisiotisLouis2020Aptf","RauscherMarion2022TtPR"]});
